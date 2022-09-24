@@ -16,6 +16,12 @@
             android:name=".SettingsActivity"
             android:exported="false" />
         <activity
+            android:name=".DataAnalyseActivity"
+            android:exported="true" />
+        <activity
+            android:name=".DataMonitoringActivity"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
