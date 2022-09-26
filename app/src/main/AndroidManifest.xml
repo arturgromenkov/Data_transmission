@@ -11,10 +11,10 @@
         android:theme="@style/Theme.Data_transmission">
         <activity
             android:name=".AddUserActivity"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".SettingsActivity"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".DataAnalyseActivity"
             android:exported="true" />
